@@ -34,7 +34,3 @@ docker run -p 8000:8000 siteguard
 | `DJANGO_SECRET_KEY` | `dev-only-secret-change-in-prod` | Django secret key |
 | `ALLOWED_HOSTS` | `*` | Comma-separated allowed hosts |
 | `DB_PATH` | `/tmp/siteguard.sqlite3` | SQLite database path |
-
-## License
-
-MIT
